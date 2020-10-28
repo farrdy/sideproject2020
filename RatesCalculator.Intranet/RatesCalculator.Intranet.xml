@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RatesCalculator.Intranet</name>
+    </assembly>
+    <members>
+        <member name="M:RatesCalculator.Intranet.Controllers.LookupsController.GetWaterMeter">
+            <summary>
+            Meter Sizes and charges.
+            </summary>       
+            <returns>List of water meters amount</returns>
+        </member>
+        <member name="M:RatesCalculator.Intranet.Controllers.LookupsController.GetIncomeLevels">
+            <summary>
+            Indigent Income levels.
+            </summary>       
+            <returns>List of indidigent income levels</returns>
+        </member>
+        <member name="M:RatesCalculator.Intranet.Controllers.LookupsController.PensionerDisabledIncomes">
+            <summary>
+            Pensioner Disabled Income levels.
+            </summary>       
+            <returns>List of indidigent income levels</returns>
+        </member>
+        <member name="M:RatesCalculator.Intranet.Controllers.RatesTariffsController.Refuse(RatesCalculator.Models.RefuseIn)">
+            <summary>
+            Calculate all  residence refuse charges.
+            </summary>
+            <param name="input">The input parameters</param>
+            <returns>Refuse amount</returns>
+        </member>
+        <member name="M:RatesCalculator.Intranet.Controllers.RatesTariffsController.Electricity(RatesCalculator.Models.ElectricityIn)">
+            <summary>
+            Calculate all  residence electricity charges.
+            </summary>
+            <param name="input">The input parameters</param>
+            <returns>Electricity amount</returns>
+        </member>
+        <member name="M:RatesCalculator.Intranet.Controllers.RatesTariffsController.Water(RatesCalculator.Models.WaterIn)">
+            <summary>
+            Calculate all  residence water charges.
+            </summary>
+            <param name="input">The input parameters</param>
+            <returns>Water amount</returns>
+        </member>
+        <member name="M:RatesCalculator.Intranet.Controllers.RatesTariffsController.Sanitation(RatesCalculator.Models.SanitationIn)">
+            <summary>
+            Calculate all residence sanitation charges.
+            </summary>
+            <param name="input">The input parameters</param>
+            <returns>Sanitation amount</returns>
+        </member>
+        <member name="M:RatesCalculator.Intranet.Controllers.RatesTariffsController.ComputeAllTariffs">
+            <summary>
+            Calculate all residence charges.
+            </summary>
+            <param name="input">The input parameters</param>
+            <returns>All amount</returns>
+        </member>
+    </members>
+</doc>

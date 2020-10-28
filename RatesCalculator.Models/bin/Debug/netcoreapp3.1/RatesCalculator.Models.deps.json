@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RatesCalculator.Models/1.0.0": {
+        "runtime": {
+          "RatesCalculator.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RatesCalculator.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

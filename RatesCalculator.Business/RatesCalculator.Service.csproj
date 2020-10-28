@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>RatesCalculator.Service</AssemblyName>
+    <RootNamespace>RatesCalculator.Service</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RatesCalculator.Data\RatesCalculator.Data.csproj" />
+    <ProjectReference Include="..\RatesCalculator.Infrastructure\RatesCalculator.Infrastructure.csproj" />
+    <ProjectReference Include="..\RatesCalculator.Models\RatesCalculator.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Database\bin\Debug\RatesCalculator.Database.dacpac
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Database\bin\Debug\RatesCalculator.Database.dll
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Database\bin\Debug\RatesCalculator.Database.pdb
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Database\obj\Debug\RatesCalculator.Database.dll
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Database\obj\Debug\RatesCalculator.Database.pdb
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Database\obj\Debug\RatesCalculator.Database.sqlprojAssemblyReference.cache

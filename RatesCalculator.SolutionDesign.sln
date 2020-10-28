@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RatesCalculator.Data", "RatesCalculator.Data\RatesCalculator.Data.csproj", "{0FCA0ABA-971A-4A7B-9879-EF18C563E9A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RatesCalculator.Intranet", "RatesCalculator.Intranet\RatesCalculator.Intranet.csproj", "{B1579323-2EC0-4389-BECB-4EB66BEAFE0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RatesCalculator.Models", "RatesCalculator.Models\RatesCalculator.Models.csproj", "{AC9CF2E7-3E2B-4A0E-B1DB-ED157B9ED458}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RatesCalculator.Infrastructure", "RatesCalculator.Infrastructure\RatesCalculator.Infrastructure.csproj", "{91635CA1-0601-4E47-BB24-F1693A2F7357}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RatesCalculator.Service", "RatesCalculator.Business\RatesCalculator.Service.csproj", "{1DAE2BC5-EC01-479A-9554-E53F5F9B2853}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RatesCalculator.Database", "RatesCalculator.Database\RatesCalculator.Database.sqlproj", "{673D1376-76BE-4925-ADAD-5DB409706443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCA0ABA-971A-4A7B-9879-EF18C563E9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCA0ABA-971A-4A7B-9879-EF18C563E9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCA0ABA-971A-4A7B-9879-EF18C563E9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCA0ABA-971A-4A7B-9879-EF18C563E9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1579323-2EC0-4389-BECB-4EB66BEAFE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1579323-2EC0-4389-BECB-4EB66BEAFE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1579323-2EC0-4389-BECB-4EB66BEAFE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1579323-2EC0-4389-BECB-4EB66BEAFE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9CF2E7-3E2B-4A0E-B1DB-ED157B9ED458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9CF2E7-3E2B-4A0E-B1DB-ED157B9ED458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9CF2E7-3E2B-4A0E-B1DB-ED157B9ED458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9CF2E7-3E2B-4A0E-B1DB-ED157B9ED458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91635CA1-0601-4E47-BB24-F1693A2F7357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91635CA1-0601-4E47-BB24-F1693A2F7357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91635CA1-0601-4E47-BB24-F1693A2F7357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91635CA1-0601-4E47-BB24-F1693A2F7357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAE2BC5-EC01-479A-9554-E53F5F9B2853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAE2BC5-EC01-479A-9554-E53F5F9B2853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAE2BC5-EC01-479A-9554-E53F5F9B2853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAE2BC5-EC01-479A-9554-E53F5F9B2853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673D1376-76BE-4925-ADAD-5DB409706443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673D1376-76BE-4925-ADAD-5DB409706443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673D1376-76BE-4925-ADAD-5DB409706443}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{673D1376-76BE-4925-ADAD-5DB409706443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673D1376-76BE-4925-ADAD-5DB409706443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673D1376-76BE-4925-ADAD-5DB409706443}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68D37C1-E5E0-4AA6-8641-1F8310FC4637}
+	EndGlobalSection
+EndGlobal

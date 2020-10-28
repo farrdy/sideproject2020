@@ -1,0 +1,13 @@
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\bin\Debug\netcoreapp3.1\RatesCalculator.Data.exe
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\bin\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.deps.json
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\bin\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.dll
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\bin\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.pdb
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\bin\Debug\netcoreapp3.1\RatesCalculator.Data.dll
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\bin\Debug\netcoreapp3.1\RatesCalculator.Data.pdb
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\obj\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\obj\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\obj\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.AssemblyInfo.cs
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\obj\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\obj\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.csproj.CopyComplete
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\obj\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.dll
+C:\Users\Developer2019\source\repos\RatesCalculator.SolutionDesign\RatesCalculator.Infrastructure\obj\Debug\netcoreapp3.1\RatesCalculator.Infrastructure.pdb
